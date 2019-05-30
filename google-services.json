@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "135410321404",
-    "firebase_url": "https://sdc-cards.firebaseio.com",
-    "project_id": "sdc-cards",
-    "storage_bucket": "sdc-cards.appspot.com"
+    "project_number": "4574454787",
+    "firebase_url": "https://elaf-sdc.firebaseio.com",
+    "project_id": "elaf-sdc",
+    "storage_bucket": "elaf-sdc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135410321404:android:f9dff1d936f1b5c5",
+        "mobilesdk_app_id": "1:4574454787:android:c85e9f71da3b29ed",
         "android_client_info": {
-          "package_name": "com.dl.sdccards"
+          "package_name": "com.dl.elaf"
         }
       },
       "oauth_client": [
         {
-          "client_id": "135410321404-r635mvvkd78tvd5p9a8dbtgv9lek92s2.apps.googleusercontent.com",
+          "client_id": "4574454787-57pco5u6mnndhsjr4oul76ml05on9l86.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_W3kAcySDRcd6bY4Sp3-JSSVKt2xX3Mo"
+          "current_key": "AIzaSyDFgPukiDcvcZpONLDQSJr2YUnx5dVSvM0"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4574454787-57pco5u6mnndhsjr4oul76ml05on9l86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
